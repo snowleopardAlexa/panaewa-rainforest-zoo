@@ -2,8 +2,8 @@
     "version": 3,
     "mappings": "AAAA,AAAA,OAAO,CAAC;EACJ,gBAAgB,EAAE,GAAG;CACxB",
     "sources": [
-        "Button.scss"
+        "button.scss"
     ],
     "names": [],
-    "file": "Button.css"
+    "file": "button.css"
 }
